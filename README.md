@@ -46,3 +46,5 @@ kit.txt - Набор
 
 Результаты выполнения программы
 --------
+![2_windows](https://github.com/user-attachments/assets/8405eeca-efd1-4aad-a4bb-c439676a19c7)
+![2_debian](https://github.com/user-attachments/assets/0629582f-7c63-4186-8fe5-239c9cd44572)
